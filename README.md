@@ -2,7 +2,7 @@
 
 <h3>Programa criado para fazer download de videos do youtube, MP3 e MP4, utilizando pySimpleGUI como interface gráfica.</h3>
 
-<h3>Como funciona o progama ??</h3>
+<h3>Como funciona o progama ???</h3>
 
 ![tela-youtube](https://github.com/italo-mgl/Download_Youtube_Videos/assets/111648211/f5bc73c8-c408-4e73-94ab-f10b3fa2be5a)
 
