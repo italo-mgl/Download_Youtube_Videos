@@ -24,3 +24,5 @@ for row in sheet.iter_rows(values_only=True):
         if "youtube.com" in url:
             print(f"Baixando vídeo do link: {url}")
             baixar_audio_mp3(url)
+                        baixar_audio_mp3(url)
+
