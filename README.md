@@ -26,6 +26,4 @@
 
 * PySimpleGUI
 * pytube
-* * pytube
-
 
