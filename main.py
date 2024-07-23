@@ -20,9 +20,6 @@ while True:
     evento, valor = janela.read()
 
     if valor == sg.WIN_CLOSED:
-
-            if valor == sg.WIN_CLOSED:
-
         break
     
     elif evento == "Download MP4":
